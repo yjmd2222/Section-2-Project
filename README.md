@@ -19,13 +19,13 @@
 또한 그래프가 빨리 넘어가서 보기 어렵거나, 너무 작아서 보기 어렵거나 하는 피드백도 받았다. 항상 느끼는 거지만 시각화는 애써 만들었는데 다른 사람이 보면 어렵다. 스스로 느끼는 문제점 중 하나는 한 눈에 보는 것을 좋아해서 여러 그래프를 한 fig에 그리는 점. 보기 편하게 잘라서 쓰거나 확대해서 보여주는 것을 생각해봐야겠다.
 
 ## License
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
